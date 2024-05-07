@@ -1,0 +1,16 @@
+{
+	"data": {
+		"site": {
+			"siteMetadata": {
+				"siteTitle": "Oussama Lahrizi Portfolio",
+				"siteTitleAlt": "Cara - Gatsby Starter Portfolio",
+				"siteHeadline": "Cara - Gatsby Theme from @lekoarts",
+				"siteUrl": "https://oussamalahrizi.github.io",
+				"siteDescription": "",
+				"siteImage": "/banner.jpg",
+				"siteLanguage": "en",
+				"author": "@exiled_owl"
+			}
+		}
+	}
+}
